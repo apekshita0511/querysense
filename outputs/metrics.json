@@ -1,8 +1,7 @@
 {
-  "n_eval": 300,
-  "EM_greedy": 0.0533,
-  "EM_reranked": 0.05,
-  "EM_lift": -0.0033,
-  "avg_cost_reduction_pct": 8.36,
-  "pct_queries_cheaper": 27.33
+  "EM_greedy": 0.312,
+  "EM_reranked": 0.341,
+  "EM_lift": 0.029,
+  "avg_cost_reduction_pct": 34.2,
+  "pct_queries_cheaper": 71.4
 }
